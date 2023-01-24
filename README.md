@@ -1,2 +1,2 @@
 # TinDog
-a dating website for dogs
+A dating website for dogs
